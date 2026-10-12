@@ -4,6 +4,7 @@
 
 <h1 align="center">The Portfolio That Works While You Sleep</h1>
 
+
 <p align="center">
   <strong>Your unfair advantage in academia.</strong><br/>
   Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
