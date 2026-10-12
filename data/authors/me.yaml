@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Venis Dmitry
-  given: Dmitry
-  family: Venis
+  display: Bessonov Timofey
+  given: Timofey
+  family: Bessonov
   pronouns: he/him
 status:
 role: Student 
 bio: |
-  Меня зовут Венис Дмитрий. Учусь на 1 курсe специальности "Компьютерные и информационные науки" в университете "Российский университет дружбы народов". Родился в городе Брест, Республика Беларусь .На данный момент проживаю в городе Москва. Опыт: Создание сайта с помощью GitHub Pages. Достижения: 1 место на конкурсе "Инфомышка"
+  Меня зовут Венис Бессонов Тимофей. Учусь на 1 курсe специальности "Компьютерные и информационные науки" в университете "Российский университет дружбы народов". Родился в городе Старый Оскол, Белгородская обл.На данный момент проживаю в городе Москва. Опыт: Создание сайта с помощью GitHub Pages. Достижения: 1 место на конкурсе "Инфомышка"
 
 links:
   - icon: at-symbol
-    url: mailto:1032253513@rudn.ru
+    url: mailto:1032253551@rudn.ru
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/VenisDmitry
@@ -39,7 +39,7 @@ interests:
 
 
 education:
-  - degree: BS Computer Science
+  - degree: RUDN Computer Science
     institution: People Friendship University of Russia
     start: 2025-09-01
     end: 2029-06-30
@@ -66,7 +66,7 @@ languages:
   - name: Russian
     level: 5
     label: Native
-  - name: Belorussian
+  - name: Russian
     level: 4
     label: Native
   - name: English
@@ -75,7 +75,7 @@ languages:
 
 awards:
   - title: 1 место в Республиканском конкурсе по информатике "Инфомышка"
-    awarder: Министерство науки и образования  Республики Беларусь
+    awarder: Министерство науки и образования РФ
     date: "2024-12-01"
     summary: Награжден за выдающиеся успехи в области изучения информатики
 
